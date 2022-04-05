@@ -9,13 +9,13 @@
 
 ⚡Exchange @ Japan-East Asia Network of Exchange for Students and Youths : (2022) <br>
 
-    The Exchange was supported by the Ministry of Foreign Affairs Japan along with AFS Intercultural Programs Japan.<br>
-    Visits to educational sites and institutions, high-tech and traditional industries, world heritage sites, provincial
-    government office; an participation in cross-cultural events, workshops, and discussions with local people.
+    - The Exchange was supported by the Ministry of Foreign Affairs Japan along with AFS Intercultural Programs Japan.
+    - Visits to educational sites and institutions, high-tech and traditional industries, world heritage sites, provincial
+    - government office; an participation in cross-cultural events, workshops, and discussions with local people.
 
 🏆 <b><i>“Excellence in innovation Award”</b></i> in Road To Shine, an innovation Program hosted by T-Hub and Hiroshima Prefecture.
 
-🏆 Awarded in <b><i>"Circular Economy Challenge"</b></i> with the certificate of Participation for business Models on EPR organised by European Union and EU-REI
+🏆 Awarded in <b><i>"Circular Economy Challenge"</b></i> with the certificate of Participation for business Models on EPR organised by European Union and European Union’s Resource Efficiency Initiative (EU-REI)
 
 ### Skills -
 
