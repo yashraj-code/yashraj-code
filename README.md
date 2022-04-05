@@ -30,3 +30,9 @@
 <b>Deep Learning:- </b> <i> Py-torch </br></i>
 
 <b>Data Analysis:-</b> <i> Exploratory Data Analysis || t-SNE || Hypothesis Testing || PCA || A/B Testing || SQL || MS Excel </br></i>
+
+- 📫 Reach me at: yashrajrocks101@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yashraj-dhanuka-554975153/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashraj-code&theme=dark&show_icons=true)
